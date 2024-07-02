@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959686654805",
+    "project_id": "echat-54029",
+    "storage_bucket": "echat-54029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959686654805:android:1b493fdd2f22133a820ddc",
+        "android_client_info": {
+          "package_name": "com.example.echat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZYAfT_q0Fmi7dWoVIFusfzFx2jQO4SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
